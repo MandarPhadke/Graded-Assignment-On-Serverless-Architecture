@@ -13,5 +13,19 @@ Assignment 1: Automated Instance Management Using AWS Lambda and Boto3
 9. Deployed and tested the code. code executed sucesfully.
 10. ![AWS5](https://github.com/user-attachments/assets/de8f1c57-8a54-4b42-9e1c-8e09b6f37499)
 
+Assignment 2: Automated S3 Bucket Cleanup Using AWS Lambda and Boto3
+1. S3 Setup
+2. ![image](https://github.com/user-attachments/assets/87d90b19-7ec1-4135-8323-33453d6d355f)
+3. created the IAM role for lamda function
+4. ![2](https://github.com/user-attachments/assets/75cd12be-d074-4079-9c59-65688a207049)
+5. Using existing Lamda function.
+6. Modified the Python code
+7. ![image](https://github.com/user-attachments/assets/c9caf784-01d1-4969-bcc0-3d7e14ca4cc2)
+8. Deployed and tested the code(not able to add files older 30 days so modified the code with 30 sec).
+9. ![image](https://github.com/user-attachments/assets/18c7f428-3ca5-4da3-b9ac-9b69a9202f74)
+
+
+
+
 
 
