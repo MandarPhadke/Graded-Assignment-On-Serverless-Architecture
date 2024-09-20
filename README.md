@@ -1,5 +1,6 @@
 # Graded-Assignment-On-Serverless-Architecture
 Graded Assignment On Serverless Architecture
+
 Assignment 1: Automated Instance Management Using AWS Lambda and Boto3
 1. Creating EC2 Instances for AutoStart and AutoStop.
 2. ![AWS4](https://github.com/user-attachments/assets/9e5e3cd4-00fc-43cf-872f-8b77490e8f8c)
